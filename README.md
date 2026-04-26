@@ -8,7 +8,6 @@ SDG&E hosts its data in a different format than the other IOUs in California (PG
 <img width="336" height="90" alt="Screenshot 2026-04-26 at 11 30 27 AM" src="https://github.com/user-attachments/assets/b7b7a9e7-e01e-4797-9bf9-230a7fbfaf7a" />
 
 
-
 ## Contributors
 - [Sofia Sarak](https://github.com/sofiasarak)
 - [Sofia Rodas](https://github.com/sofiiir)
